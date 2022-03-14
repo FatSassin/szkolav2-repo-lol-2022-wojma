@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     int n = 0;
-    cout << "ile liczb pierwszych mam wyswietlic?" << endl;
+    cout << "Ile liczb pierwszych ma wyświetlić program?" << endl;
     cin >> n;
     int p = 2;
     cout << "Liczby pierwsze:" << endl;
