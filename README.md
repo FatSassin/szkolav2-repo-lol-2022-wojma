@@ -9,7 +9,7 @@ Male trolowanko Xd
 
 Linki do zrealizowanych programów:
 
-1. [Alorytm 1](/Liczby pierwsze/Liczby pierwsze.cpp)
+1. [Alorytm 1](/Liczby-pierwsze/Liczby-pierwsze.cpp)
 2. [Alorytm 2](https://creepypasta.fandom.com/pl/wiki/Wstrz%C4%85saj%C4%85ce_pochodzenie_mema_Trollface)
 
 
