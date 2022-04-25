@@ -3,7 +3,7 @@
 #opis
 super chlopaki z naszej paki bartek i hubert suuuuuper koledzy :DDDDDDDDDDDDDDDDDDD
 
-
+you're to late bartek, i'm already forklift certified
 
 Linki do zrealizowanych programów:
 
