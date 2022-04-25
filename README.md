@@ -1,9 +1,8 @@
 # szkolav2-repo-lol-2022-wojma
 `<Hubert Talwik i Bartosz Borzyskowski 25.02.2022>`
-#opis
-super chlopaki z naszej paki bartek i hubert suuuuuper koledzy :DDDDDDDDDDDDDDDDDDD
 
-you're to late bartek, i'm already forklift certified
+# opis
+super chlopaki z naszej paki bartek i hubert suuuuuper koledzy :DDDDDDDDDDDDDDDDDDD
 
 Linki do zrealizowanych programów:
 
