@@ -10,6 +10,8 @@ Linki do zrealizowanych programów:
 2. [fibonaczi](https://github.com/FatSassin/szkolav2-repo-lol-2022-wojma/blob/main/fibornaczi/fibornaczi/fibornaczi.cpp)
 3. [nww i nwd](https://github.com/FatSassin/szkolav2-repo-lol-2022-wojma/blob/main/nww%20nwd/nww%20nwd/nww%20nwd.cpp)
 4. [szyfr cezara](https://github.com/FatSassin/szkolav2-repo-lol-2022-wojma/tree/main/szyfrcezara)
+5. [wysukiwanie binarne](https://github.com/FatSassin/szkolav2-repo-lol-2022-wojma/blob/main/wyszukiwanie%20binarne/wyszukiwanie%20binarne/wyszukiwanie%20binarne.cpp)
+
 
 554. [Alorytm 2](https://www.requiem.pl/wp-content/uploads/2020/01/Sus-Sebastian.jpg)
 876. [Sklad coca-cola](https://www.youtube.com/watch?v=bsBDqaYXGb4)
