@@ -15,3 +15,5 @@ Linki do zrealizowanych programów:
 
 554. [Alorytm 2](https://www.requiem.pl/wp-content/uploads/2020/01/Sus-Sebastian.jpg)
 876. [Sklad coca-cola](https://www.youtube.com/watch?v=bsBDqaYXGb4)
+8. [Maksymilian Felczak](https://i.pinimg.com/736x/c0/09/cf/c009cfc1f7ee4eb3ef393e0e2f905783.jpg)
+9. [Fajnie](https://www.google.com/search?q=fajnie&rlz=1C1DIMC_enPL995PL995&oq=fajnie&aqs=chrome..69i57j46i131i433i512j46i131i175i199i433j0i512l5j46i512.760j1j7&sourceid=chrome&ie=UTF-8)
